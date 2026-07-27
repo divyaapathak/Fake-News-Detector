@@ -1,22 +1,18 @@
 export default function History(){
 
-
 const historyData=[
-
 {
 title:"NASA discovers water on Mars",
 result:"REAL",
 confidence:"96%",
 date:"14 Jul 2026"
 },
-
 {
 title:"Aliens landed in India",
 result:"FAKE",
 confidence:"91%",
 date:"13 Jul 2026"
 },
-
 {
 title:"India launches new satellite",
 result:"REAL",
@@ -25,13 +21,9 @@ date:"12 Jul 2026"
 }
 
 ];
-
-
-
 return(
 
-<>
-
+<
 
 <style>{`
 
